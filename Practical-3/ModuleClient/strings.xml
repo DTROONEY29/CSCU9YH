@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModuleClient</string>
+    <string name="codeLbel">Code</string>
+    <string name="nameLabel">Name</string>
+    <string name="clearButton">Clear</string>
+    <string name="translateButton">Translate</string>
+</resources>
